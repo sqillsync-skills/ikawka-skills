@@ -1,0 +1,5 @@
+# commit
+
+Generate commit messages following conventional commits and commit staged changes. Use when creating commits or when user invokes /commit.
+
+_Content could not be fetched._

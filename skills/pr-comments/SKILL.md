@@ -1,0 +1,5 @@
+# pr-comments
+
+Triage unresolved PR review comments, produce a severity-ordered fix plan, then resolve or fix each issue with subagents. Use when addressing PR feedback before merge.
+
+_Content could not be fetched._
